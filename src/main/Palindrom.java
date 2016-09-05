@@ -1,13 +1,11 @@
-package de.hska.java.aufgaben.rekursion;
+package de.swe;
 
 /**
  * Mit Palindrom kann ein char-Feld daraufhin überprüft werden,
  * ob es ein Palindrom ist oder nicht.
  * Ein Palindrom ist ein Wort, das Vorwärts und Rückwärts gelesen
  * gleich ist. Zum Beispiel "abba", "lagerregal".
- * <p>
- *   <a href="http://www.home.hs-karlsruhe.de/~pach0003/informatik_1/aufgaben/rekursion.html#palindrom">Zurück zum Aufgabentext</a>
- * </p>
+ * 
  * 
  * @author pape
  *
